@@ -1,6 +1,12 @@
 
 var weight=38;
 var price=79;
+var year=2005;
+var money=289;
+var age;
+money=900;
+
+console.log(money);
 console.log(price);
 /*
 
